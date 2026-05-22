@@ -51,4 +51,4 @@ pegaArquivo('./arquivos/texto.md');
 
 // \[([^[\]]*?)\]\((https?:\/\/[^\s?#.].[^\s]*)\)
 
-//console.log(chalk.green('Plante o bem para coler o bem'));
+console.log(chalk.blue(''));
